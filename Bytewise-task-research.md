@@ -1,13 +1,16 @@
 #Procedural generation:
+
 Procedural generation in game design refers to the creation of game content, such as environments, levels, characters, or items, using algorithms and mathematical functions instead of manually designing every element. It involves generating content dynamically at runtime, providing a potentially infinite variety of experiences for players.
 Procedural generation allows game developers to create vast and diverse game worlds, save time in content creation, and offer unique gameplay experiences. By defining a set of rules and algorithms, developers can generate content that is consistent, coherent, and tailored to specific gameplay requirements.
 ##Here are a few examples of how procedural generation can be used in game design:
+
 •	**Terrain Generation:** Procedural algorithms can be used to create realistic landscapes, such as mountains, forests, or caves. By defining rules for elevation, vegetation placement, and other parameters, the game engine can generate varied terrains on the fly.
 •	**Level Design:** Instead of manually designing individual levels, procedural generation can create levels or dungeons that are different each time the player enters. This approach is commonly used in roguelike games, where levels are randomly generated to provide unique challenges.
 •	**Item Generation:** Procedural generation can determine the properties, attributes, and appearances of in-game items, such as weapons, armor, or potions. This allows for a vast array of possible combinations, enhancing gameplay depth and variety.
 •	**NPC (Non-Player Character) Generation:** By defining algorithms for character traits, appearances, and behaviors, procedural generation can create diverse populations of NPCs in the game world. This can add realism and variety to the interactions players have with the game's inhabitants.
 Procedural generation is a powerful tool in game design, enabling developers to create dynamic and immersive experiences. However, it's important to balance procedural generation with carefully crafted handcrafted content to ensure a satisfying gameplay experience without sacrificing quality or consistency.
-##Games that use procedural generation:##
+##Games that use procedural generation:
+
 There are numerous games that utilize procedural generation to create content. Here are some notable examples across various genres:
 1.	Minecraft: This sandbox game is known for its procedurally generated worlds consisting of blocks that players can freely manipulate. The terrain, caves, and structures are generated procedurally, providing an infinite exploration experience.
 2.	No Man's Sky: This space exploration game features a vast universe with billions of procedurally generated planets, each with its own unique environment, flora, and fauna. The game relies heavily on procedural generation to create its expansive and diverse universe.
